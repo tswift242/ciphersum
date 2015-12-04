@@ -6,7 +6,7 @@
 
   <groupId>com.tswift242.ciphersum</groupId>
   <artifactId>ciphersum</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <name>Cipher Sum</name>
 
   <packaging>jar</packaging>
